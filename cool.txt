@@ -1,0 +1,38 @@
+C:\Users\mounish\.jenkins\users\admin_8958595849209987598
+
+
+
+899ae40cf3504abfbe7f76c665cf1d78
+
+
+
+set OUT=jmeter.save.saveservice.output_format
+set JMX=c:\jmeter\bin\jenkins.io.jmx
+set JTL=c:\jmeter\reports\jenkins.io.report.jtl
+c:\jmeter\bin\jmeter -j %OUT%=xml -n -t %JMX% -l %JTL%
+
+F:\apache-jmeter-5.1.1\apache-jmeter-5.4.1 (1)\apache-jmeter-5.4.1\bin>-j jmeter.save.saveservice.output_format=xml
+
+
+F:\apache-jmeter-5.1.1\TestPlans
+
+
+F:\apache-jmeter-5.1.1\apache-jmeter-5.4.1 (1)\apache-jmeter-5.4.1\bin\jmeter -j jmeter.save.saveservice.output_format=xml -n -t F:\apache-jmeter-5.1.1\TestPlans\Thread Group03.jmx -l F:\apache-jmeter-5.1.1\TestPlans\Results\test03.jtl
+
+jekins -- F:\apache-jmeter-5.1.1\apache-jmeter-5.4.1\bin\jmeter.bat -j jmeter.save.saveservice.output_format=xml -n -t F:\apache-jmeter-5.1.1\TestPlans\ThreadGroup03.jmx -l F:\apache-jmeter-5.1.1\TestPlans\Results\testjen01.csv
+
+F:\apache-jmeter-5.1.1\apache-jmeter-5.4.1\bin
+
+65000
+32000
+
+path - F:\apache-jmeter-5.1.1\apache-jmeter-5.4.1 (1)\apache-jmeter-5.4.1\bin
+
+jmeter -n -t F:\apache-jmeter-5.1.1\TestPlans\ThreadGroup03.jmx -l F:\apache-jmeter-5.1.1\TestPlans\Results\sample.csv
+
+
+jmeter -n -t F:\apache-jmeter-5.1.1\TestPlans\newtours_login_logout.jmx -l F:\apache-jmeter-5.1.1\TestPlans\Results\sample.csv
+
+
+my git repoistory URL - https://github.com/MounishViswa/sample.git
+
